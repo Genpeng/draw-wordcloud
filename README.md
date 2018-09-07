@@ -1,2 +1,2 @@
 # draw-wordcloud
-Drawing a wordcloud picture
+Draw a wordcloud picture
